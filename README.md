@@ -1,2 +1,2 @@
 # simply-blog
-Simply HTML and CSS blog 
+Simply is simple HTML and CSS blog 
