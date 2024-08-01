@@ -1,0 +1,63 @@
+/* main style */ 
+
+*{
+        box-sizing: border-box;
+}
+
+body{
+        font-size: 16px;
+        font-family: "Source Serif 4", sans-serif;
+        color: #646464;
+        line-height: 1.8;
+        padding: 0;
+        margin: 0;
+}
+
+
+/* header style */ 
+
+.topbar{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 20px 0;
+     border-bottom: 1px solid rgba(0, 0, 0, .1);
+}
+
+
+.topbar .logo{
+        color: #3c3b3b;
+        font-family: sans-serif ;
+}
+
+
+.topbar nav a{
+      color: #646464; 
+      padding: 0 20px;
+      text-decoration: none;
+}
+
+
+.topbar nav a:hover, .topbar nav a:active{
+        color: #3c3b3b;
+}
+
+
+.social img{
+        width: 15px;
+}
+
+
+
+.topbar .social a{
+        padding: 0 10px;
+        opacity: 0.5;
+}
+.topbar .social a:hover{
+        padding: 0 10px;
+        opacity: 1;
+}
+
+
+/* banner style */ 
+
